@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>d283e353fe1f4c34f8ac458281740fb4</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Editor/Brushes/CoordinateBrush/CoordinateBrush.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0abded712ad706044a53ef292972edbb</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Editor/Brushes/GameObjectBrush/GameObjectBrush.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eec4c0c21e439e04083398ccd1928db0</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Editor/Brushes/GroupBrush/GroupBrush.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6210598a979f8724a8dac4531c428889</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Editor/Brushes/LineBrush/LineBrush.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>71e49d8cb93a4e46b07eea7c8dd2186b</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Editor/Brushes/PrefabBrushes/BasePrefabBrush.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2d5751a2c961df945a34295ccf5e576d</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Editor/Brushes/PrefabBrushes/PrefabBrush/PrefabBrush.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fdc5e1eccedb29e4894bbfab99032590</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Editor/Brushes/PrefabBrushes/PrefabRandomBrush/PrefabRandomBrush.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d80edd6caba93514eb01722041fe50b4</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Editor/Brushes/RandomBrush/RandomBrush.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5461c6f43c33cae4e8367042630017f7</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Editor/Brushes/TintBrush/TintBrush.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ed363ce3b4856fa408111529bc784318</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Editor/Brushes/TintBrushSmooth/TintBrushSmooth.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a573a189e85fcd243a32fa6ac742ca44</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Editor/Tiles/HexagonalRuleTile/HexagonalRuleTileEditor.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>35a64db21fde55046a6d60c50f766aa7</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Editor/Tiles/IsometricRuleTile/IsometricRuleTileEditor.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bd604afe90023492586ef97592e54ba4</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Editor/Tiles/RuleOverrideTile/AdvancedRuleOverrideTileEditor.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4dcb91d1bb7d18847b5ce74c4cdb1921</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Editor/Tiles/RuleOverrideTile/PopulateRuleOverrideTileWizard.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dd977390416471341b10fd1278290da0</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Editor/Tiles/RuleOverrideTile/RuleOverrideTileEditor.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1a641ca7aea56f8428c8c6efc8e618cb</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Editor/Tiles/RuleTile/CustomRuleTileMenu.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>139f9377103555b49b8dcd62686df3bf</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Editor/Tiles/RuleTile/RuleTileEditor.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b41bf0cc11b1c8f419f96e8eb0adea40</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Runtime/Brushes/TintTextureGenerator.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e7bb9acb2cffc5f45abddc238a0ad9b0</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Runtime/GridInformation/GridInformation.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>13b75c95f34a00d4e8c04f76b73312e6</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Runtime/Tiles/AnimatedTile/AnimatedTile.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName>
+      <string>UnityEngine.Tilemaps.AnimatedTile</string>
+      <string>UnityEngine.Tilemaps.AnimatedTileEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>55f747e8af38fbe4d8819f37be6fd5aa</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Runtime/Tiles/HexagonalRuleTile/HexagonalRuleTile.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5e6f3fbb560bd6041a202ea918fa4f23</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Runtime/Tiles/IsometricRuleTile/IsometricRuleTile.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>25192638efa881c469b1ac4d8cfd3f1b</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Runtime/Tiles/PipelineTile/PipelineTile.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>535f8e525ff367c4ba67961e201a05ed</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Runtime/Tiles/RandomTile/RandomTile.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9ff2caf20a1df406d9ab8f2f5a57f734</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Runtime/Tiles/RuleOverrideTile/AdvancedRuleOverrideTile.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4c779848d9dd029409ca676b49e10a18</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Runtime/Tiles/RuleOverrideTile/RuleOverrideTile.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9d1514134bc4fbd41bb739b1b9a49231</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Runtime/Tiles/RuleTile/RuleTile.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f6e4e4fc705376343a3e65b25d94f0e2</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Runtime/Tiles/TerrainTile/TerrainTile.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>52f942ca9511f354a8efbf325740f4ab</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Runtime/Tiles/WeightedRandomTile/WeightedRandomTile.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1570cfa747cfb0647a5afa98d8babd66</guid>
+    <fileName>Assets/2d-extras-master/2d-extras-master/Tests/Editor/PlaceholderTests.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cdcbc7b08b102f14c87e983a4ca7b472</guid>
+    <fileName>Assets/Scripts/AnimatedTile.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName>
+      <string>UnityEngine.Tilemaps.AnimatedTile</string>
+      <string>UnityEngine.Tilemaps.AnimatedTileEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>18090c5acb7642f4b9ffc241e0679ccf</guid>
+    <fileName>Assets/Scripts/Grounded.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName>
+      <string>Grounded</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e741c493c97ff0845af4e4e9e49b1f98</guid>
+    <fileName>Assets/Scripts/LavaRise.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName>
+      <string>LavaRise</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e2dbb25261f03494baeed1b85dec32b1</guid>
+    <fileName>Assets/Scripts/MainMenu.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName>
+      <string>MainMenu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>18476e417eb93f74a9f7a949a34bb64d</guid>
+    <fileName>Assets/Scripts/Move2D.cs</fileName>
+    <timeStamp>2021-06-01T20:50:52.4124619-04:00</timeStamp>
+    <typeFullName>
+      <string>Move2D</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fb1871fffa75cd94fa0cd524e7f98c14</guid>
+    <fileName>Assets/Scripts/Pivot.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName>
+      <string>Pivot</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>55be52682ac2af74ea528c990942f308</guid>
+    <fileName>Assets/Scripts/poleanim.cs</fileName>
+    <timeStamp>2021-06-01T19:54:21-04:00</timeStamp>
+    <typeFullName>
+      <string>poleanim</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>
